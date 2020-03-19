@@ -9,7 +9,6 @@ import os
 import argparse
 
 __author__ = "Ajay Tom George"
-__copyright__ = "SAT@Cognizant"
 __credits__ = "None"
 __license__ = "None"
 __version__ = "1.0.1"
